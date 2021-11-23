@@ -1,0 +1,21 @@
+# StackOverflow clones/proxies
+coderedirect.com
+askto.pro
+helperbyte.com
+coderoad.ru
+
+# Misc. QA sites (may include StackOverflow)
+answer-id.com
+
+# StackOverflow question duplicate forums
+programmerall.com
+topic.alibabacloud.com
+
+# GitHub clones/proxies
+issueexplorer.com
+githubmemory.com
+www.codeproject.com
+gitmemory.com
+
+# Code fragment databases
+www.codegrepper.com
