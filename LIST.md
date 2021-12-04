@@ -10,6 +10,7 @@
   * pretagteam.com
   * question-it.com
   * overcoder.net
+  * www.generacodice.com
 </details>
 
 ## Misc. QA sites (may include StackOverflow)
