@@ -8,8 +8,6 @@ question-it.com
 overcoder.net
 www.generacodice.com
 www.ti-enxame.com
-newbedev.com
-www.titanwolf.org
 
 # Misc. QA sites (may include StackOverflow)
 answer-id.com
@@ -17,6 +15,8 @@ answer-id.com
 # StackOverflow question duplicate forums
 programmerall.com
 topic.alibabacloud.com
+newbedev.com
+www.titanwolf.org
 
 # GitHub clones/proxies
 issueexplorer.com
