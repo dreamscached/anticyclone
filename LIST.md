@@ -12,7 +12,6 @@
   * overcoder.net
   * www.generacodice.com
   * www.ti-enxame.com
-  * newbedev.com
 </details>
 
 ## Misc. QA sites (may include StackOverflow)
@@ -28,6 +27,8 @@
   
   * programmerall.com
   * topic.alibabacloud.com
+  * newbedev.com
+  * www.titanwolf.org
 </details>
 
 ## GitHub clones/proxies
