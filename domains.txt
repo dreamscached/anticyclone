@@ -9,6 +9,7 @@ overcoder.net
 www.generacodice.com
 www.ti-enxame.com
 stackoom.com
+pretagteam.com
 
 # Misc. QA sites (may include StackOverflow)
 answer-id.com
