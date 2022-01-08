@@ -1,31 +1,31 @@
 # StackOverflow clones/proxies
-coderedirect.com
-askto.pro
-helperbyte.com
-coderoad.ru
-pretagteam.com
-question-it.com
-overcoder.net
-www.generacodice.com
-www.ti-enxame.com
-stackoom.com
-pretagteam.com
+*://coderedirect.com/*
+*://askto.pro/*
+*://helperbyte.com/*
+*://coderoad.ru/*
+*://pretagteam.com/*
+*://question-it.com/*
+*://overcoder.net/*
+*://www.generacodice.com/*
+*://www.ti-enxame.com/*
+*://stackoom.com/*
+*://pretagteam.com/*
 
 # Misc. QA sites (may include StackOverflow)
-answer-id.com
+*://answer-id.com/*
 
 # StackOverflow question duplicate forums
-programmerall.com
-topic.alibabacloud.com
-newbedev.com
-www.titanwolf.org
-ostack.cn
+*://programmerall.com/*
+*://topic.alibabacloud.com/*
+*://newbedev.com/*
+*://www.titanwolf.org/*
+*://ostack.cn/*
 
 # GitHub clones/proxies
-issueexplorer.com
-githubmemory.com
-www.codeproject.com
-gitmemory.com
+*://issueexplorer.com/*
+*://githubmemory.com/*
+*://www.codeproject.com/*
+*://gitmemory.com/*
 
 # Code fragment databases
-www.codegrepper.com
+*://www.codegrepper.com/*
