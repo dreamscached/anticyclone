@@ -30,6 +30,7 @@
   * topic.alibabacloud.com
   * newbedev.com
   * www.titanwolf.org
+  * ostack.cn
 </details>
 
 ## GitHub clones/proxies
